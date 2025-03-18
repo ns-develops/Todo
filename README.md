@@ -1,15 +1,15 @@
 
 *Current*
-Foodorder app
+<p>Foodorder app</p>
 
 # Todo
-Webpage regular
-Webb shop / E-commerce
-System with CRUD operation
-Chat app
-Prove working with API 
-Trading app
-Other own fun 
+<p>Webpage regular</p>
+<p>Webb shop / E-commerce</p>
+<p>System with CRUD operation</p>
+<p>Chat app</p>
+<p>Prove working with API</p>
+<p>Trading app</p>
+<p>Other own fun </p>
 
 
-Challange until 31 mars 2025
+<p>Challange until 31 mars 2025</p>
