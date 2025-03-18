@@ -15,4 +15,9 @@ TO DO
 
 🚀 CHALLENGE UNTIL 31 MARCH 2025 🚀   
 
+<br>
+
+[ ] Trainee spot
+
+🚀 15 MAY 2025 🚀 
 
