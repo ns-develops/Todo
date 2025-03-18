@@ -5,13 +5,13 @@
 
 🎯 TO DO
 <br>
-[ ] Webpage regular 
-[ ] Webbshop / E-commerce  
-[ ] System with CRUD operations  
-[ ] Chat app  
-[ ] Prove working with API 
-[ ] Trading app  
-[ ] Other own fun  
+[ ] Webpage regular <br>
+[ ] Webbshop / E-commerce  <br>
+[ ] System with CRUD operations  <br>
+[ ] Chat app  <br>
+[ ] Prove working with API <br>
+[ ] Trading app  <br>
+[ ] Other own fun  <br>
 
 
 🚀 CHALLENGE UNTIL 31 MARCH 2025 🚀   
