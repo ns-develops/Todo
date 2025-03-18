@@ -1,17 +1,18 @@
 
-CURRENT  
+✨ CURRENT ✨ 
 [ ] Foodorder app
 
-TO DO
+🎯 TO DO
 <br>
-[ ] Webpage regular  
+[ ] Webpage regular 
 [ ] Webbshop / E-commerce  
 [ ] System with CRUD operations  
 [ ] Chat app  
-[ ] Prove working with API  
+[ ] Prove working with API 
 [ ] Trading app  
 [ ] Other own fun  
 
-CHALLENGE UNTIL 31 MARCH 2025    
+
+🚀 CHALLENGE UNTIL 31 MARCH 2025 🚀   
 
 
