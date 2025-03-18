@@ -1,8 +1,8 @@
 
-*Current*
+`*Current*`
 <p>Foodorder app [  ] </p>
 
-# Todo
+`# Todo`
 <p>Webpage regular [ ] </p>
 <p>Webb shop / E-commerce [ ] </p>
 <p>System with CRUD operation [ ] </p>
