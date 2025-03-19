@@ -8,11 +8,11 @@ TO DO
 [ ] Webpage regular <br>
 [ ] Webpage responsive <br>
 [ ] Webbshop / E-commerce  <br>
-[ ] System with full CRUD operations    and backend <br>
+[ ] Prove working with API <br>
 [ ] Typescript project <br>
 [ ] Next js project<br>
-[ ] Prove working with API <br>
 [ ] Native projects <br>
+[ ] System with full CRUD operations and backend <br>
 [ ] Other own fun different languages <br>
 [ ] UX/UI designed <br>
 
