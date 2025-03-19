@@ -6,7 +6,7 @@ TO DO
 <br>
 [ ] Webpage regular <br>
 [ ] Webbshop / E-commerce  <br>
-[ ] System with full CRUD operations with     backend <br>
+[ ] System with full CRUD operations    and backend <br>
 [ ] Typescript project <br>
 [ ] Next js project<br>
 [ ] Prove working with API <br>
