@@ -4,6 +4,7 @@ CURRENT<br>
 
 TO DO
 <br>
+[ ] Swift animated or rive <br>
 [ ] Webpage regular <br>
 [ ] Webpage responsive <br>
 [ ] Webbshop / E-commerce  <br>
