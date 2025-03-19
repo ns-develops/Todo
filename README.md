@@ -21,6 +21,7 @@ TO DO
 OTHER  
 [ ] Chat app  <br>
 [ ] Trading app  <br>
+[ ] Read SAFe agile <br>
 
 
 <br>
