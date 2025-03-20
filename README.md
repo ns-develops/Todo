@@ -30,18 +30,18 @@ OTHER APPS
 [ ] Read SAFe agile <br>
 
 OTHER KNOWLEDGE
-[ ] Docker
-[ ] Jenkins
-[ ] Hiltdagger
-[ ] Coroutines and-Flow UseCases
-[ ] HTML5 
-[ ] CSS3
-[ ] ZOD Plugins
-[ ] Compose
-[ ] Wordpress
-[ ] Expo
-[ ] Ble
-[ ] GPSTracker
+[ ] Docker <br>
+[ ] Jenkins <br>
+[ ] Hiltdagger <br>
+[ ] Coroutines and-Flow UseCases <br>
+[ ] HTML5 <br>
+[ ] CSS3 <br>
+[ ] ZOD Plugins <br>
+[ ] Compose <br>
+[ ] Wordpress <br>
+[ ] Expo <br>
+[ ] Ble <br>
+[ ] GPSTracker <br>
 
 
 <br>
