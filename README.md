@@ -29,6 +29,7 @@ OTHER
 [ ] En todo app with overview  <br>
 [ ] Read SAFe agile <br>
 
+OTHER KNOWLEDGE
 
 
 <br>
