@@ -4,6 +4,7 @@ CURRENT<br>
 
 TO DO
 <br>
+[ ] AI driven chatbot <br>
 [ ] Swift animated or rive <br>
 [ ] Webpage regular <br>
 [ ] Webpage responsive <br>
@@ -12,18 +13,18 @@ TO DO
 [ ] Typescript project <br>
 [ ] Next js project<br>
 [ ] Native projects <br>
-[ ] System with full CRUD operations and backend <br>
-[ ] Other own fun different languages <br>
+[ ] System with full CRUD operations and  backend <br>
 [ ] UX/UI designed <br>
-[ ] Brainville <br>
+
 
 🚀 CHALLENGE UNTIL 31 MARCH 2025 🚀   
 
 OTHER  
 [ ] Chat app  <br>
 [ ] Trading app  <br>
-[ ] AI driven chatbot <br>
 [ ] AI other <br>
+[ ] Other own fun different languages <br>
+[ ] Brainville <br>
 [ ] Time report app for consults/freelance  <br>
 [ ] En todo app with overview  <br>
 [ ] Read SAFe agile <br>
