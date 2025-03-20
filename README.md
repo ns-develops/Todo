@@ -23,11 +23,11 @@ OTHER APPS <br>
 [ ] Chat app  <br>
 [ ] Trading app  <br>
 [ ] AI other <br>
-[ ] Other own fun different languages <br>
-[ ] Other BV <br>
 [ ] Time report app for consults/freelance  <br>
 [ ] En todo app with overview  <br>
-[ ] Read SAFe agile <br>
+[ ] Other BV <br>
+[ ] Other own fun different languages <br>
+
 
 OTHER KNOWLEDGE <br>
 [ ] Docker <br>
@@ -42,6 +42,7 @@ OTHER KNOWLEDGE <br>
 [ ] Expo <br>
 [ ] Ble <br>
 [ ] GPSTracker <br>
+[ ] Read SAFe agile <br>
 
 [ ] Brainville <br>
 
