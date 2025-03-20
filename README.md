@@ -1,25 +1,25 @@
 
 CURRENT<br>
 [ ] Foodorder app
+[ ] Webpage responsive <br>
+
 
 TO DO
 <br>
-[ ] AI driven chatbot <br>
 [ ] Swift animated or rive <br>
-[ ] Webpage regular <br>
-[ ] Webpage responsive <br>
 [ ] Webbshop / E-commerce  <br>
+[ ] AI driven chatbot <br>
 [ ] Prove working with API <br>
+[ ] Webpage regular <br>
 [ ] Typescript project <br>
 [ ] Next js project<br>
 [ ] Native projects <br>
-[ ] System with full CRUD operations and  backend <br>
 [ ] UX/UI designed <br>
+[ ] System with full CRUD operations and backend <br>
 
+🚀 CHALLENGE UNTIL 15 APRIL 2025 🚀   
 
-🚀 CHALLENGE UNTIL 31 MARCH 2025 🚀   
-
-OTHER  
+OTHER APPS
 [ ] Chat app  <br>
 [ ] Trading app  <br>
 [ ] AI other <br>
@@ -30,6 +30,18 @@ OTHER
 [ ] Read SAFe agile <br>
 
 OTHER KNOWLEDGE
+[ ] Docker
+[ ] Jenkins
+[ ] Hiltdagger
+[ ] Coroutines and-Flow UseCases
+[ ] HTML5 
+[ ] CSS3
+[ ] ZOD Plugins
+[ ] Compose
+[ ] Wordpress
+[ ] Expo
+[ ] Ble
+[ ] GPSTracker
 
 
 <br>
