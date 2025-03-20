@@ -21,7 +21,11 @@ TO DO
 OTHER  
 [ ] Chat app  <br>
 [ ] Trading app  <br>
+[ ] AI driven chatbot <br>
+[ ] Time report app for consults/freelance  <br>
+[ ] En todo app with overview  <br>
 [ ] Read SAFe agile <br>
+
 
 
 <br>
