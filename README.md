@@ -29,7 +29,7 @@ OTHER APPS
 [ ] En todo app with overview  <br>
 [ ] Read SAFe agile <br>
 
-OTHER KNOWLEDGE
+OTHER KNOWLEDGE <br>
 [ ] Docker <br>
 [ ] Jenkins <br>
 [ ] Hiltdagger <br>
