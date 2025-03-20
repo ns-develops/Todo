@@ -24,7 +24,7 @@ OTHER APPS
 [ ] Trading app  <br>
 [ ] AI other <br>
 [ ] Other own fun different languages <br>
-[ ] Brainville <br>
+[ ] Other BV <br>
 [ ] Time report app for consults/freelance  <br>
 [ ] En todo app with overview  <br>
 [ ] Read SAFe agile <br>
@@ -43,6 +43,7 @@ OTHER KNOWLEDGE <br>
 [ ] Ble <br>
 [ ] GPSTracker <br>
 
+[ ] Brainville <br>
 
 <br>
 
