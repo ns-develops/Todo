@@ -19,7 +19,7 @@ TO DO
 
 🚀 CHALLENGE UNTIL 15 APRIL 2025 🚀   
 
-OTHER APPS
+OTHER APPS <br>
 [ ] Chat app  <br>
 [ ] Trading app  <br>
 [ ] AI other <br>
