@@ -7,7 +7,7 @@
 TO DO
 <br>
 [ ] Swift animated or rive <br>
-[ ] Webbshop / E-commerce  <br>
+[ ] Webbshop / E-commerce with [ ] Redux <br>
 [ ] AI driven chatbot <br>
 [ ] Prove working with API <br>
 [ ] Webpage regular - Other BV <br>
