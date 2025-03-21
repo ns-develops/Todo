@@ -39,7 +39,8 @@ OTHER KNOWLEDGE <br>
 [ ] Ble <br>
 [ ] GPSTracker <br>
 [ ] Read SAFe agile <br>
-
+[ ] Handling APK <br>
+[ ] Github release for mobile applications <br>
 [ ] Brainville <br>
 
 <br>
