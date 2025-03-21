@@ -12,7 +12,7 @@ TO DO
 [ ] Prove working with API <br>
 [ ] Webpage regular <br>
 [ ] Typescript project <br>
-[ ] Next js project<br>
+[ ] [ ] En todo app with overview - Next js project<br>
 [ ] Native projects <br>
 [ ] UX/UI designed <br>
 [ ] System with full CRUD operations and backend <br>
@@ -24,7 +24,6 @@ OTHER APPS <br>
 [ ] Trading app  <br>
 [ ] AI other <br>
 [ ] Time report app for consults/freelance  <br>
-[ ] En todo app with overview  <br>
 [ ] Other BV <br>
 [ ] Other own fun different languages <br>
 
