@@ -11,7 +11,7 @@ TO DO
 [ ] AI driven chatbot <br>
 [ ] Prove working with API <br>
 [ ] Webpage regular - Other BV <br>
-[ ] Typescript project - Time report app for consults/freelance  <br>
+[ ] Typescript project - Time report app for consults/freelance, maybe [ ] ZOD <br>
 [ ] A todo app with overview - Next js project<br>
 [ ] Native projects <br>
 [ ] UX/UI designed <br>
@@ -33,7 +33,6 @@ OTHER KNOWLEDGE <br>
 [ ] Coroutines and-Flow UseCases <br>
 [ ] HTML5 <br>
 [ ] CSS3 <br>
-[ ] ZOD Plugins <br>
 [ ] Compose <br>
 [ ] Wordpress <br>
 [ ] Expo <br>
