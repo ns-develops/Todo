@@ -1,6 +1,6 @@
 
 💕CURRENT💕 <br>
-[ ] Foodorder app <br>
+[ ] Foodorder app - System with full CRUD operations and backend <br>
 [ ] Webpage responsive <br>
 
 
@@ -15,7 +15,7 @@ TO DO
 [ ] [ ] En todo app with overview - Next js project<br>
 [ ] Native projects <br>
 [ ] UX/UI designed <br>
-[ ] System with full CRUD operations and backend <br>
+
 
 🚀 CHALLENGE UNTIL 15 APRIL 2025 🚀   
 
