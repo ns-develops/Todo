@@ -12,7 +12,7 @@ TO DO
 [ ] Prove working with API <br>
 [ ] Webpage regular - Other BV <br>
 [ ] Typescript project - Time report app for consults/freelance  <br>
-[ ] [ ] En todo app with overview - Next js project<br>
+[ ] A todo app with overview - Next js project<br>
 [ ] Native projects <br>
 [ ] UX/UI designed <br>
 
