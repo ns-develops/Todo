@@ -1,7 +1,7 @@
 
 💕CURRENT💕 <br>
 [ ] Foodorder app - System with full CRUD operations and backend <br>
-[ ] Webpage responsive <br>
+[ ] Webpage responsive (Part activities, footer, contact-form, demo-page, navbar grids) <br>
 
 
 TO DO
